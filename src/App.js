@@ -36,10 +36,12 @@ function App() {
           <Route path='/events'>
             <Events></Events>
           </Route>
-          <Route path='*'>
+          <Route exact path='*'>
             <NotFound></NotFound>
           </Route>
-
+          <Route exact path='/'>
+            <Home></Home>
+          </Route>
         </Switch>
         <Footer></Footer>
       </Router>
