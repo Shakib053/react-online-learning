@@ -16,10 +16,10 @@ const Home = () => {
     return (
         <div className="d-flex justify-content-center row">
 
-            <img src={banner} className="w-100 my-4" alt="" srcset="" />
+            <img src={banner} className="w-100 my-4 " alt="" srcset="" />
             <h3>Discover Our Popular Courses</h3>
             {
-                newCourses.map(course => <Course course={course}></Course>)
+                newCourses.map(course => <Course course={course} key={course.key}></Course>)
             }
 
             <Link to='/services'>See More Courses</Link>

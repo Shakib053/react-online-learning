@@ -1,0 +1,11 @@
+.icons i:hover {
+  background-color: rgb(211, 211, 226);
+  transform: scale(1.2);
+  transition: 1s;
+}
+.icons i {
+  cursor: pointer;
+}
+.navs button:hover {
+  background-color: rgb(211, 211, 226);
+}

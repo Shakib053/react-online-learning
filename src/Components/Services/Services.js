@@ -12,7 +12,7 @@ const Services = () => {
         <div className="d-flex justify-content-center row">
             <h3>Our Most Popular Courses</h3>
             {
-                Courses.map(course => <Course course={course}></Course>)
+                Courses.map(course => <Course course={course} key={course.key}></Course>)
             }
         </div>
     );
