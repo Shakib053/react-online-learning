@@ -20,12 +20,11 @@ const Events = () => {
             <div className="my-5 d-flex border border-dark align-items-center">
                 <img src={img2} className="w-100 border-3 border border-secondary" alt="" srcset="" />
                 <div className="px-5">
-                    <h3>Performance Advertising In
-                        Tourism Sector</h3>
+                    <h3>Performance Analysis through Coding bootcamp</h3>
                     <h6>Date 23/11/2021: </h6>
                     <h6>Time : 17:50</h6>
                     <small>Duration : <span className="text-warning"> <strong>3 Days</strong></span></small>
-                    <p>The goal of every tourist website is to turn potential lead into guests by guiding them to the end of the booking process. This event we will discuss about the process of UI/UX and how to...</p>
+                    <p>Coding bootcamps offer intensive training programs — which stack up competitively against bachelor's degrees — for professionals who want to break into the technology sector. To help students determine the best coding bootcamps for positive career outcomes, Switchup gathered data from Burning Glass Technologies, a software analytics company. Bootcamps were ranked by the percentage of alumni employed in their field of study within a year of graduating.</p>
                 </div>
             </div>
         </div>
