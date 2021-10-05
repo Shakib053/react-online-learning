@@ -12,7 +12,7 @@ const Course = (props) => {
                 <h6>Course Instructor : <b>{instructor}</b> </h6>
                 <p>Rating : <span className="text-primary"> {rating}</span></p>
                 <p>Reviewed By : <span className="text-warning "> <strong>{review}</strong></span></p>
-                <h5>Course Fee : <span className="text-primary"><strong>{type}</strong></span></h5>
+                <h5>Course Type : <span className="text-primary"><strong>{type}</strong></span></h5>
             </div>
 
         </div>
