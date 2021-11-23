@@ -14,3 +14,5 @@ Default favicon and logo are customized while making the site.
 <<<<>>>>
 
 Routing technique and fixed header and footer is introduced along with 404 error for wrong route.
+
+Live site link : https://simplecharityorganization.netlify.app/
