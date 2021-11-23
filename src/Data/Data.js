@@ -1,7 +1,7 @@
 const courses = [
     {
         name: "Learning Python Data Analysis",
-        instructor: "an Murphy",
+        instructor: "Cicilian Murphy",
         img: "https://images-na.ssl-images-amazon.com/images/I/41zq7zw5CYL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
         rating: 4,
         review: 1245,
